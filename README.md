@@ -1,100 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Najeeb%20Alhafidi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Automation%20Engineer%20%7C%20Data%20Analyst&descAlignY=52&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammed%20Najeeb%20Alhafidi&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Automation%20Engineer%20•%20Data%20Analyst&descAlignY=55&descSize=17&descColor=A8DADC"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=👋+Hi%2C+I'm+Mohammed+Najeeb;💻+Frontend+Developer;🤖+n8n+Automation+Engineer;📊+Data+Analyst+%26+Excel+Expert;🚀+Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=💻+Frontend+Developer;🤖+n8n+Automation+Engineer;📊+Data+Analyst;🎯+Microsoft+Office+Expert;🚀+Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/mnloop2020-byte?label=Followers&style=social)](https://github.com/mnloop2020-byte)
-[![Profile Views](https://komarev.com/ghpvc/?username=mnloop2020-byte&color=6366F1&style=flat&label=Profile+Views)](https://github.com/mnloop2020-byte)
+[![Profile Views](https://komarev.com/ghpvc/?username=mnloop2020-byte&color=00D9FF&style=flat&label=Profile+Views)](https://github.com/mnloop2020-byte)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
-```javascript
-const Mohammed = {
-  name: "Mohammed Najeeb Alhafidi",
-  role: ["Frontend Developer", 
-         "Automation Engineer",
-         "Data Analyst"],
-  skills: {
-    frontend: ["HTML", "CSS", "JavaScript",
-               "TypeScript", "React", "Tailwind"],
-    automation: ["n8n", "Webhooks", "Google Sheets"],
-    data: ["Excel", "SQL", "Data Analysis"],
-    microsoft: ["PowerPoint", "Word", "Excel"]
-  },
-  currentlyBuilding: "Automation Workflows & Web Apps",
-  funFact: "I automate everything I can! 🤖"
-};
+```yaml
+name     : Mohammed Najeeb Alhafidi
+role     : Frontend Developer & Automation Engineer
+location : 🌍 Available Remotely
+focus    :
+  - Building clean & modern web interfaces
+  - Automating workflows with n8n
+  - Analyzing data with Excel & SQL
+currently: Always building something new 🚀
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00D9FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00D9FF?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"/>
-
-### 🤖 Automation & Backend
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,github,vscode&theme=dark"/>
-
-### 📊 Data & Productivity
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+### 🤖 Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 
-</div>
+### 📊 Data & Microsoft
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-<div align="center">
-
-| 🏆 | Project | Description | Tech Stack |
-|---|---------|-------------|-----------|
-| ⭐ | [**Send Emails from Obsidian**](https://github.com/mnloop2020-byte/Send-Emails-from-Obsidian) | Automate sending emails with attachments directly from Obsidian notes | `n8n` `Gmail API` `Webhooks` |
-| 🔨 | **More Coming Soon...** | Always working on something new! | `React` `TypeScript` |
-
-</div>
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|-----------|---------------|---------|
+| [📧 Send Emails from Obsidian](https://github.com/mnloop2020-byte/Send-Emails-from-Obsidian) | Automate sending emails with attachments from Obsidian notes | n8n • Gmail API • Webhooks |
+| 🌐 My Website | Personal portfolio — coming soon | HTML • CSS • React |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnloop2020-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mnloop2020-byte&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mnloop2020-byte&show_icons=true&theme=nord&hide_border=true&border_radius=10&title_color=00D9FF&icon_color=00D9FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnloop2020-byte&layout=compact&theme=nord&hide_border=true&border_radius=10&title_color=00D9FF" height="165"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnloop2020-byte&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mnloop2020-byte&theme=nord&hide_border=true&border_radius=10&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mnloop2020-byte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mnloop2020-byte&theme=nord&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -103,14 +91,14 @@ const Mohammed = {
 
 <br/>
 
-**💬 Feel free to reach out for collaborations or just a chat!**
+**💬 Open for collaborations and freelance projects!**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=mnloop2020-byte&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
